@@ -1,8 +1,13 @@
-## Available Scripts
+![Illustration](nasa.jpg)
 
-In the project directory, you can run:
+## Usage
 
-### `npm install && npm start`
+```bash
+npm install && npm start
+```
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Contributors
+
+This project has been made with :
+- Erwan Sinou
+- Sacha Goualier
