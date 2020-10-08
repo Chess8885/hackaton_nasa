@@ -9,5 +9,5 @@ npm install && npm start
 ## Contributors
 
 This project has been made with :
-- Erwan Sinou
-- Sacha Goualier
+- [Erwan Sinou](https://github.com/esinou)
+- [Sacha Goualier](https://github.com/Wresteler)
